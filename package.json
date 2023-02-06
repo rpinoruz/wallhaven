@@ -1,0 +1,22 @@
+{
+  "name": "wallhaven",
+  "version": "1.0.0",
+  "description": "A command-line tool to download wallpapers using the Wallhaven API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rpinoruz/wallhaven.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "rpinoruz",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rpinoruz/wallhaven/issues"
+  },
+  "homepage": "https://github.com/rpinoruz/wallhaven#readme"
+}
